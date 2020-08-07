@@ -12,7 +12,7 @@ import (
 const (
 	windowWidth  = 800
 	windowHeight = 600
-	windowTitle  = "Learn OpenGL :: Window"
+	windowTitle  = "Learn OpenGL :: Triangles"
 )
 
 func init() {
